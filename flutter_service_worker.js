@@ -1,1 +1,0 @@
-// Simulated service worker
