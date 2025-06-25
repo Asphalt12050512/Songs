@@ -1,0 +1,1 @@
+// Simulated flutter loader script
